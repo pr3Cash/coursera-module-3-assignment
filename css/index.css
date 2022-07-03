@@ -1,4 +1,14 @@
-p{
-    font-size: 100%;
-    color: rgb(0, 255, 0);
+body{
+    font-size: medium;
+    color: aquamarine;
+    background-color: rgb(69, 233, 19);
+    
+}
+#header-nav{
+    background-color: rgb(42, 54, 160);
+    border-radius: 0;
+    border: 0;
+}
+.navbar-brand{
+    padding-top: 15px;
 }
