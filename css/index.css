@@ -1,14 +1,31 @@
+*{
+    box-sizing: border-box;
+}
 body{
     font-size: medium;
-    color: aquamarine;
-    background-color: rgb(69, 233, 19);
-    
+    /*color: aquamarine;
+    /*background-color: rgb(69, 233, 19);
+    */
+    font-family: 'Ubuntu', sans-serif;
 }
 #header-nav{
-    background-color: rgb(42, 54, 160);
+    background-color: rgb(212, 215, 235);
     border-radius: 0;
     border: 0;
 }
-.navbar-brand{
-    padding-top: 15px;
+
+.bg-border{
+    margin-left: 5%;
+    margin-right: auto;
+    background-color: #999999;
+    width: 90%;
+    padding: 0%;
+}
+.text-center{
+    color:black;
+    /*background-color: #fdfdfd;*/
+    font-weight: 900;
+}
+p{
+    font-size: larger;
 }
