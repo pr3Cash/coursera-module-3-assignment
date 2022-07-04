@@ -28,4 +28,31 @@ body{
 }
 p{
     font-size: larger;
+    color: #b700ff;
+}/*
+#container-color
+{
+    
+    background-color: rgb(122, 211, 20);
+    background-image: linear-gradient(45deg,#7ad314,#66ff66,	#3399ff);
+
+}*/
+.bg-color{
+    color: rgb(72, 82, 197);
+    background-color: #ffff00;
+    
+}
+
+.t-color{
+   /*background-image: linear-gradient(180deg,#7ad314,#ffffff,	#ff9100,white,green);
+   */margin-bottom: 10px;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+    /*border-radius: 100px;
+    */border:1px solid maroon; 
+}
+.navbar-default .navbar-nav>.active>a{
+    color: aquamarine;
+    background-color: #00e1ff;
+
 }
